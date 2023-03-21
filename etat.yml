@@ -1,17 +1,15 @@
-lieu: route
+lieu: montagne
 inventaire:
-  - cheval
+  - lion
   - baguette
-  - épée longue
 personnages:
   - moi:
-    - santé: 7
+    - santé: 11
   - chevalier_noir:
-    - santé: 0
+    - santé: 13
   - lion:
-    - santé: 20
+    - santé: 28
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
-
+    - santé: 0
